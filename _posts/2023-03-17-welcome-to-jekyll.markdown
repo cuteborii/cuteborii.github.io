@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "왜생기는걸까!"
+title:  "이렇게하자..!"
 date:   2023-03-17 10:21:48 +0900
 categories: jekyll update
 ---
